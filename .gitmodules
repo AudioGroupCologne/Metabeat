@@ -1,3 +1,6 @@
 [submodule "aframe-bytebeat"]
 	path = aframe-bytebeat
 	url = git@github.com:https://github.com/AudioGroupCologne/aframe-bytebeat
+[submodule "aframe-resonance-audio-component"]
+	path = aframe-resonance-audio-component
+	url = https://github.com/AudioGroupCologne/aframe-resonance-audio-component
