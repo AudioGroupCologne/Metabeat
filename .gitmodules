@@ -1,0 +1,3 @@
+[submodule "aframe-bytebeat"]
+	path = aframe-bytebeat
+	url = git@github.com:https://github.com/AudioGroupCologne/aframe-bytebeat
